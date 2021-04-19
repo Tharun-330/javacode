@@ -1,4 +1,4 @@
-  TO  DEVOPS CULTURE    
+    
 
 Available courses..
 
