@@ -1,6 +1,6 @@
-<h1> ############### WELCOME  TO  DEVOPS CULTURE     ############### </h1>
+  TO  DEVOPS CULTURE    
 
 Available courses..
 
-also we are looking for robotics technolgies........
+Container Technologies
 
